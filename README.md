@@ -1,5 +1,5 @@
 # Alien-Invasion
-A simple Python Pygame from Python Crash Course book.
+A simple Python game using Pygame lib.
 
 ![Screenshot](https://raw.githubusercontent.com/paulohbraga/Alien-Invasion/master/screen.png)
 
